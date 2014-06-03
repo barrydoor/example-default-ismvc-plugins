@@ -1,4 +1,5 @@
 ismvc
 =====
 
-"isMVC" is een PHP/MySql Model View Controller voor Mobiele apps
+"isMVC"  = Ivans Supereasy "Model View Controller" for Mobiele apps and websites
+
