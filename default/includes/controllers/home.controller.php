@@ -1,7 +1,6 @@
 <?php
  class HomeController{
 	public function handleRequest(){
-		 
 		$title='Home';
 		$data_theme='b';
 		$data_dividertheme='a'; 
