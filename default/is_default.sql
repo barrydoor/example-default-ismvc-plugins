@@ -5,6 +5,6 @@ CREATE TABLE IF NOT EXISTS `is_default` (
 ) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=133 ;
 
 INSERT INTO `is_default` (`id`, `item`) VALUES
-(2, 'item 1'),
-(127, 'item 2'),
-(131, 'Item 3');
+(1, 'item 1'),
+(2, 'item 2'),
+(3, 'Item 3');
