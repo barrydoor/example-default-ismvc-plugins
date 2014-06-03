@@ -1,4 +1,4 @@
 ismvc
 =====
 
-"isMVC" is een PHP/MySql Model View Controller voor Mobiele apps
+"isMVC" = PHP/MySql Model View Controller for Mobiele websites and apps
