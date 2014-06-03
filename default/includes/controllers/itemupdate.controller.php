@@ -1,7 +1,6 @@
 <?php
  class ItemUpdateController{
 	public function handleRequest(){
-		 
 		$title='Item wijzigen';
 		$data_theme='a';
 		$data_dividertheme='b'; 
@@ -14,10 +13,10 @@
 			 $message= 'Fout! Het tekstveld mag niet leeg zijn!';
 		 }
 		render('itemupdate',array( 
-			'title'					=> $title,
+			'title'				=> $title,
 			'data_theme'			=> $data_theme, 
 			'data_dividertheme'		=> $data_dividertheme,
-			'message'				=> $message 
+			'message'			=> $message 
 		));
 	}
 }
